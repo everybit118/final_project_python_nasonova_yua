@@ -1,0 +1,108 @@
+{
+  "vulnerabilities": [
+    {
+      "id": "ASTRA:1018257736491285458946979134789187",
+      "cvss_score": 7.1,
+      "title": " Astra Linux - уязвимость в linux-6.1",
+      "published": "2026-06-03T21:04:07"
+    },
+    {
+      "id": "ASTRA:1018415581090404673769252606793283",
+      "cvss_score": 7.8,
+      "title": " Astra Linux - уязвимость в linux-5.10",
+      "published": "2026-06-03T21:04:07"
+    },
+    {
+      "id": "ASTRA:1018414337115180879166383048709699",
+      "cvss_score": 7.8,
+      "title": " Astra Linux - уязвимость в linux-5.10",
+      "published": "2026-06-03T21:04:07"
+    },
+    {
+      "id": "ASTRA:1018413725393993715623556964243011",
+      "cvss_score": 7.8,
+      "title": " Astra Linux - уязвимость в linux-5.10",
+      "published": "2026-06-03T21:04:07"
+    },
+    {
+      "id": "ASTRA:1018414341946161647026842026464835",
+      "cvss_score": 7.1,
+      "title": " Astra Linux - уязвимость в linux, linux-5.10",
+      "published": "2026-06-03T21:04:07"
+    },
+    {
+      "id": "ASTRA:1018414344359290919773230730663491",
+      "cvss_score": 7.8,
+      "title": " Astra Linux - уязвимость в ntfs-3g",
+      "published": "2026-06-03T21:04:07"
+    },
+    {
+      "id": "ASTRA:1018334486355869441237170493150787",
+      "cvss_score": 7.8,
+      "title": " Astra Linux - уязвимость в linux-5.10",
+      "published": "2026-06-03T21:04:07"
+    },
+    {
+      "id": "ASTRA:1018335116201499093976100869854787",
+      "cvss_score": 7.1,
+      "title": " Astra Linux - уязвимость в linux-5.10, linux-5.15",
+      "published": "2026-06-03T21:04:07"
+    },
+    {
+      "id": "ASTRA:1018335116196776655435637186713155",
+      "cvss_score": 7.8,
+      "title": " Astra Linux - уязвимость в ntfs-3g",
+      "published": "2026-06-03T21:04:07"
+    },
+    {
+      "id": "ASTRA:1018414649003875240292101187262019",
+      "cvss_score": 8.8,
+      "title": " Astra Linux - уязвимость в webkit2gtk",
+      "published": "2026-06-03T21:04:07"
+    }
+  ],
+  "ip_analysis": [
+    {
+      "ip": "45.33.32.156",
+      "country": "US",
+      "malicious": 4,
+      "suspicious": 1,
+      "harmless": 56
+    },
+    {
+      "ip": "185.220.101.1",
+      "country": "DE",
+      "malicious": 15,
+      "suspicious": 3,
+      "harmless": 45
+    },
+    {
+      "ip": "23.129.64.130",
+      "country": "US",
+      "malicious": 11,
+      "suspicious": 4,
+      "harmless": 49
+    },
+    {
+      "ip": "171.25.193.9",
+      "country": "SE",
+      "malicious": 9,
+      "suspicious": 1,
+      "harmless": 51
+    },
+    {
+      "ip": "192.42.116.16",
+      "country": "NL",
+      "malicious": 16,
+      "suspicious": 3,
+      "harmless": 46
+    }
+  ],
+  "blocked_ips": [
+    "185.220.101.1",
+    "23.129.64.130",
+    "171.25.193.9",
+    "192.42.116.16"
+  ],
+  "critical_vulns": []
+}
